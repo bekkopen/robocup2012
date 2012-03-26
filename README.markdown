@@ -1,11 +1,14 @@
-
 ## Installasjonsveileding for IT-hipstere
 
-  * $ cd lib && ./install.sh
-  * skru mindstorms i firmware-update modus (hold inn reset-knapp i 4
-    sek"
-  * $ ./flash_firmware.sh
-  * $ cd ../HelloWorld && ./upload.sh
+   
+    $ cd lib && ./install.sh
+  
+  
+ skru mindstorms i firmware-update modus (hold inn reset-knapp i 4 sek)
+  
+
+    $ ./flash_firmware.sh    
+    $ cd ../HelloWorld && ./upload.sh
 
 
 
