@@ -21,4 +21,4 @@ http://lejos.sourceforge.net/nxt/nxj/tutorial/Preliminaries/UsingEclipse.htm
 ## Mer info
  - Det ligger mye bra eksempler i lib/leJOS_NXJ/samples.zip
  - Tutorials på lejos.sourceforge.net
-test
+
